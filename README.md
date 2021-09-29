@@ -4,3 +4,5 @@ python script to show various data structures implemented in python
 consists of:
 <br>
 Stacks
+<br>
+Queue
