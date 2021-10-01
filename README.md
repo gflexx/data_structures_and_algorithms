@@ -1,8 +1,10 @@
 # data_structures_and_algorithms
-python scripts to show various data structures implemented in python
+Python scripts to show various data structures implemented in python
 <br>
-consists of:
+Consists of:
 <br>
 Stacks
 <br>
 Queues
+<br>
+Linked Lists
