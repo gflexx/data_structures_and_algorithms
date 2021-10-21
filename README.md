@@ -9,4 +9,4 @@ Queues
 <br>
 Linked Lists
 <br>
-Circular linked list
+Circular Linked List
